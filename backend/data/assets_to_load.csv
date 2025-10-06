@@ -1,0 +1,96 @@
+symbol,name,coingecko_id,primary_exchange_id
+1INCH/USDT,1inch,1inch,coinbase
+AAVE/USDT,Aave,aave,coinbase
+ADA/USDT,Cardano,cardano,coinbase
+AERO/USDT,Aerodrome Finance,aerodrome-finance,coinbase
+AIOZ/USDT,AIOZ Network,aioz-network,coinbase
+AKT/USDT,Akash Network,akash-network,coinbase
+ALGO/USDT,Algorand,algorand,coinbase
+APT/USDT,Aptos,aptos,coinbase
+ARB/USDT,Arbitrum,arbitrum,coinbase
+ATH/USDT,Aethir,aethir,coinbase
+ATOM/USDT,Cosmos Hub,cosmos,coinbase
+AVAX/USDT,Avalanche,avalanche-2,coinbase
+AXL/USDT,Axelar,axelar,coinbase
+AXS/USDT,Axie Infinity,axie-infinity,coinbase
+BCH/USDT,Bitcoin Cash,bitcoin-cash,coinbase
+BEAM/USDT,Beam,beam-2,binance
+BNB/USDT,BNB,binancecoin,binance
+BONK/USDT,Bonk,bonk,coinbase
+BTC/USDT,Bitcoin,bitcoin,coinbase
+BTT/USDT,BitTorrent,bittorrent,binance
+CAKE/USDT,PancakeSwap,pancakeswap-token,coinbase
+CRO/USDT,Cronos,crypto-com-chain,coinbase
+CRV/USDT,Curve DAO,curve-dao-token,coinbase
+DASH/USDT,Dash,dash-2,coinbase
+DOGE/USDT,Dogecoin,dogecoin,coinbase
+DOT/USDT,Polkadot,polkadot,coinbase
+DYDX/USDT,dYdX,dydx-chain,binance
+EGLD/USDT,MultiversX,elrond-erd-2,coinbase
+ETC/USDT,Ethereum Classic,ethereum-classic,coinbase
+ETH/USDT,Ethereum,ethereum,coinbase
+FARTCOIN/USDT,Fartcoin,fartcoin-2,coinbase
+FET/USDT,Artificial Superintelligence Alliance,fetch-ai,coinbase
+FIL/USDT,Filecoin,filecoin,coinbase
+FLOKI/USDT,FLOKI,floki,coinbase
+FLR/USDT,Flare,flare-networks,coinbase
+GALA/USDT,GALA,gala,binance
+GIGA/USDT,Gigachad,gigachad-eth,coinbase
+GRT/USDT,The Graph,the-graph,coinbase
+HBAR/USDT,Hedera,hedera-hashgraph,coinbase
+HNT/USDT,Helium,helium,coinbase
+HYPE/USDT,Hyperliquid,hyperliquid,kucoin
+ICP/USDT,Internet Computer,internet-computer,coinbase
+IMX/USDT,Immutable,immutable-x,coinbase
+INJ/USDT,Injective,injective-protocol,kucoin
+IOTA/USDT,IOTA,iota-2,binance
+JASMY/USDT,JasmyCoin,jasmycoin,coinbase
+JTO/USDT,Jito,jito-governance-token,coinbase
+KAS/USDT,Kaspa,kaspa,kucoin
+KAVA/USDT,Kava,kava,coinbase
+KCS/USDT,KuCoin,kucoin-shares,kucoin
+LDO/USDT,Lido DAO,lido-dao,coinbase
+LINK/USDT,Chainlink,chainlink,coinbase
+LTC/USDT,Litecoin,litecoin,coinbase
+MANA/USDT,Decentraland,decentraland,coinbase
+MINA/USDT,Mina Protocol,mina-protocol,coinbase
+MORPHO/USDT,Morpho,morpho,coinbase
+NEAR/USDT,NEAR Protocol,near,coinbase
+ONDO/USDT,Ondo,ondo-finance,coinbase
+OP/USDT,Optimism,optimism,coinbase
+PENGU/USDT,Pudgy Penguins,pudgy-penguins,coinbase
+PEPE/USDT,Pepe,pepe,coinbase
+PLUME/USDT,Plume,plume,binance
+POL/USDT,POL (ex-MATIC),polygon-ecosystem-token,coinbase
+POPCAT/USDT,Popcat,popcat,coinbase
+PYTH/USDT,Pyth Network,pyth-network,coinbase
+QNT/USDT,Quant,quant-network,coinbase
+RENDER/USDT,Render,render-token,coinbase
+RUNE/USDT,THORChain,thorchain,binance
+SAND/USDT,The Sandbox,the-sandbox,coinbase
+SEI/USDT,Sei,sei-network,coinbase
+SHIB/USDT,Shiba Inu,shiba-inu,coinbase
+SOL/USDT,Solana,solana,coinbase
+SUI/USDT,Sui,sui,coinbase
+TAO/USDT,Bittensor,bittensor,coinbase
+THETA/USDT,Theta Network,theta-token,binance
+TIA/USDT,Celestia,celestia,kucoin
+TON/USDT,Toncoin,the-open-network,binance
+TOSHI/USDT,Toshi,toshi-2,coinbase
+TRUMP/USDT,Official Trump,official-trump,coinbase
+TRX/USDT,TRON,tron,binance
+TURBO/USDT,Turbo,turbo,coinbase
+UNI/USDT,Uniswap,uniswap,coinbase
+VET/USDT,VeChain,vechain,coinbase
+VIRTUAL/USDT,Virtuals Protocol,virtual-protocol,binance
+W/USDT,Wormhole,wormhole,coinbase
+WIF/USDT,dogwifhat,dogwifhat-base,coinbase
+WLD/USDT,Worldcoin,worldcoin-wld,coinbase
+XCN/USDT,Onyxcoin,chain-2,coinbase
+XDC/USDT,XDC Network,xdce-crowd-sale,kucoin
+XLM/USDT,Stellar,stellar,coinbase
+XMR/USDT,Monero,monero,kucoin
+XRP/USDT,XRP,ripple,coinbase
+XTZ/USDT,Tezos,tezos,binance
+ZEC/USDT,Zcash,zcash,binance
+ZK/USDT,ZKsync,zksync,coinbase
